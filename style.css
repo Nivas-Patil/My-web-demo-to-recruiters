@@ -1,0 +1,54 @@
+.jumbotron
+{
+    background-color: rgb(157, 59, 160);
+    color: white;
+    margin: 0px auto;
+}
+.row-header, ul
+{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content
+{
+    margin: 0px auto;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+    border-bottom: 1px ridge;
+    min-height: 450px;
+}
+.button
+{
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
+    outline: none;
+    border-radius: 45px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.button:hover
+{
+    box-shadow: 0px 15px 20px rgba(50, 161, 117, 0.4);
+    color: white;
+    transform: translateY(-4px)
+}
+.rem-padd{
+    padding: 0;
+}
+
+.footer
+{
+    background-color: #26272b;
+    color: whitesmoke;
+}
+u, .red-color
+{
+    color: red;
+}
+.red-color
+{
+    text-transform:uppercase;
+}
+
+
